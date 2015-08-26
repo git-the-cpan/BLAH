@@ -1,0 +1,70 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.79.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 007d9eadef38d89600c372861a631e950cadab7e .travis.yml
+SHA1 cea4be98d79e18abed5cc3b460a8fead53a3cff1 Changes
+SHA1 c17b37abdd6dd5616aeb57569d1d6b0cd949861a LICENSE
+SHA1 f45e843c38e3b433e19e8a658c48ef681b11fc12 MANIFEST
+SHA1 01ceacfd251a1ca71f7918bd309d8c9563c92f8c META.json
+SHA1 87b5cf226bd3bae964d5481f6e27c9b7b97e0064 META.yml
+SHA1 1805e9e3916fa7b92755b76c854a1854f5c106f2 Makefile.PL
+SHA1 3adb2e61f32fe48d8ec9e1a19b63490f468f2454 README
+SHA1 17ffbf022164c1dc16a74b57801dbc3a73432b8c cpanfile
+SHA1 9d1ff6fdcc3dd82437f35781f33d629118815346 dist.ini
+SHA1 212b077cbacbb704aaa9131a1da63d8d75b683da lib/BLAH.pm
+SHA1 146b68d613ab4df75aa6e19b577d821acadf6bf3 lib/BLAH/Enforces/Authentication.pm
+SHA1 bf61fdee61d8ee4e02c81bfab7b5d8a8c009297c lib/BLAH/Enforces/Authorization.pm
+SHA1 efbc8c1ddbd072eb157af2505bfc5ef50a024908 lib/BLAH/Role/Authentication.pm
+SHA1 6d53831ea608c550d4c669fde8346e0ee253bc93 lib/BLAH/Role/Authorization.pm
+SHA1 2fa1863991f8f7eac0da8ac1a1ea71bb5a9316cc lib/BLAH/Role/BLAH.pm
+SHA1 1b5ec4ac95419dc1e40ff42fa7d59dcb38067be3 lib/BLAH/Types.pm
+SHA1 d27bb5bf5ad7a8c9178763037fd437a6a5fcd1b0 t/00-check-deps.t
+SHA1 657e08f76137b087b22a1d2e44397dec3a612676 t/00-compile.t
+SHA1 df79befc2d097c18bb142e29eefbe4633d3c1d4a t/00-report-prereqs.dd
+SHA1 cace7ac30fb05f49c768c967e9df177f7bf7c60e t/00-report-prereqs.t
+SHA1 f39ae0f695491867332b9ec5476be928839f4350 t/blah.t
+SHA1 0c942145a25de677327c3bfb0735da2c62511acd t/enforces/authentication.t
+SHA1 6d2df45cd7e231902960207dc94eb11f8cdce975 t/enforces/authorization.t
+SHA1 afac609a0e0ba290f33a9067176fc131ef4b1123 t/role/authentication.t
+SHA1 9407688192104228bb72a14bdaa1abaf08c12cf9 t/role/authorization.t
+SHA1 26e92fc1ad2f974d00f8926778a26cba27e20e9f t/role/blah.t
+SHA1 6be840bd286a108dc5b33c88b7f7276ea5d0e28b xt/author/eol.t
+SHA1 f4e6890138cfc5f3f6d67a7419ff859c8719c567 xt/author/no-tabs.t
+SHA1 433587acdc4b5cc2b9b894a504c88189d27a87bb xt/author/pod-spell.t
+SHA1 a7948d34cfaad400286ea5d5fa6206c4c7e2552c xt/release/consistent-version.t
+SHA1 f3555b13cac63474b44a76219cc457f2b2a41fd4 xt/release/has-version.t
+SHA1 c4f102fe2459008f66f4ec10cdd578114be2b2fb xt/release/minimum-version.t
+SHA1 6e43aa5fd7acf0fead127933fe3a84b119a1b213 xt/release/no-smart-comments.t
+SHA1 f77d1ea5c5505a0174cf2dc006cc9bc7d657ccc3 xt/release/pod-coverage.t
+SHA1 0b34263418db405bd7c94f6949aec8f42ff7c7f1 xt/release/pod-linkcheck.t
+SHA1 39b5a316716495a269d1555c35351cb16116c2f3 xt/release/pod-syntax.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJV3iSbAAoJEJ/Rlq0N/NXWzToQAJmr7wRQrwA2lbJqjvDp3Sgs
+IqbxTboJggToU6a3vWP8jBki+v4qLzFcSEO/PtWRTILMwnsu7uvU40XxNDjZheRM
+WGUZVtA+uEX2FJsIR+tj/G1AmZ3pcchvrh72enr9dQ4DtDiVHiIUjWH/KfFccv5Q
+pkyFUujEdPMsXwmaRMSnqV0iu74+a1r68P9jlicrNAgHH7N5QKx4pUCPEUnYRr4T
+vyeoPaB+WD5DaqPrtlondMRaieH0MzfcXYOP7lwgdcaeM2qyszwoV8aRIvO3L8nG
+LLXOl0SAFLPHeoweY1PrOAx3+BO2mOeNjZ4y2rKOcyqc5I1ABD3jF67Jve+U5eHT
+w+ICF797VP47CxjaMCBSXC2KlnJzmWkZHb3u+idzWq0577uhUtkSEbXfyicEbTYt
+1Vc+ye/392maHs7HYZhlUnN5kjdpZgW6vTdmUjmS1PWghTuYGltk5WcOeyOhNaDo
+aoshPDysYnXsFHOHYChQb/HWbIxHke6HUdFjD/v/+qyR9eP2NNfJyj3zlOHDfb41
+9qWbMnEYZC+tKeKIW4tRe28eINoB8tS8m11hUWr1CfkLDyvPJKkBtYfKTtdRQzcK
+/oGBDn7ZQWT1ZTCTrYHgOHZKiBGE+HT1sRyTeMaQCTT1shn2E1hnlM5V32pcAJiw
+/2Oj91/i6G99aqOtw9Wj
+=1QkO
+-----END PGP SIGNATURE-----
